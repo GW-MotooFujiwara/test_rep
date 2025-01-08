@@ -1,3 +1,2 @@
 hello
-hoge
-hoge1
+world
